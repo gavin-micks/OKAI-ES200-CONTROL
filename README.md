@@ -5,7 +5,7 @@ Arduino sketch based around OKAI-Battery-Lib to output battery info to an i2c di
 
 ## Wiring Diagram
 
-![Wiring Diagram](https://github.com/gavin-micks/OKAI-ES200-CONTROL/blob/main/imgs/Wiring Diagram.png)
+![Wiring Diagram](https://github.com/gavin-micks/OKAI-ES200-CONTROL/blob/main/imgs/WiringDiagram.png)
 
 
 ## FAQ
