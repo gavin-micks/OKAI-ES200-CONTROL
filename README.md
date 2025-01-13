@@ -16,7 +16,7 @@ Yes, you will likely have to change the display libraries used and modify some o
 
 #### Where did you source the components?
 
-The components were sourced locally (ELELSU in London, ON), however similar components can be found at the following links:
+The components were sourced locally, however similar components can be found at the following links:
 
 0.96in i2c OLED display module: https://www.aliexpress.com/item/1005004355547926.html
 
