@@ -6,6 +6,7 @@ OKAI-Battery-Lib is necessary and found here: https://github.com/jsutcliff/OKAI-
 Parts were sourced locally, however these should be the same:
 
   Display: [https://www.aliexpress.com/item/1005004355547926.html ](url)
+    
     -Any 0.96in OLED i2c display should be fine
     -Other displays (different size / communication method) are easy to port, just change the display library.
   
