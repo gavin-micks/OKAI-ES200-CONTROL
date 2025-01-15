@@ -22,7 +22,8 @@ The components were sourced locally, however similar components can be found at 
 
 Arduino-nano-compatible Board: https://www.aliexpress.com/item/1005005135325335.html
 
-LM2596HV DC-DC converter: https://www.aliexpress.com/item/1005006969299217.html
+LM2596HV DC-DC converter: https://www.aliexpress.com/item/1005006969299217.html 
+-HV SKU recommended however theoretically non-HV SKU has a [maximum input voltage of 45V](https://www.ti.com/lit/ds/symlink/lm2596.pdf) even though under 40v recommended
 
 Total cost should be under $10USD including wires and connectors. 
 
